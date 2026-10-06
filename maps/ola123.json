@@ -1,0 +1,403 @@
+[
+  {
+    "id": 1,
+    "name": "Corredor das Runas",
+    "type": "CORREDOR",
+    "description": "Simbolos brilham nas paredes.",
+    "neighborIds": [2, 9]
+  },
+  {
+    "id": 2,
+    "name": "Ninho da Aranha",
+    "type": "DIVISAO",
+    "description": "Tudo coberto de seda branca.",
+    "eventType": "Surpresa",
+    "items": ["Pocao de Cura Pequena"],
+    "neighborIds": [1, 3, 20, 46]
+  },
+  {
+    "id": 3,
+    "name": "Cozinha Abandonada",
+    "type": "DIVISAO",
+    "description": "Pratos partidos e restos de comida.",
+    "items": ["Maca Podre", "Espada Quebrada"],
+    "neighborIds": [2, 4, 9, 42]
+  },
+  {
+    "id": 4,
+    "name": "Adega de Vinhos",
+    "type": "DIVISAO",
+    "description": "Barris velhos. A maioria vinagre.",
+    "items": ["Garrafa de Agua"],
+    "neighborIds": [3, 5, 47]
+  },
+  {
+    "id": 5,
+    "name": "Banho Romano",
+    "type": "DIVISAO",
+    "description": "Uma piscina vazia com azulejos bonitos.",
+    "items": ["Garrafa de Agua"],
+    "neighborIds": [4, 6, 32]
+  },
+  {
+    "id": 6,
+    "name": "Covil do Dragão (Vazio)",
+    "type": "DIVISAO",
+    "description": "Uma cama gigante de moedas... falsas.",
+    "items": ["Coracao de Dragao"],
+    "neighborIds": [5, 7]
+  },
+  {
+    "id": 7,
+    "name": "Portão em Ruínas",
+    "type": "ENTRADA",
+    "description": "Um arco de pedra antigo coberto de musgo.",
+    "neighborIds": [6, 8, 43]
+  },
+  {
+    "id": 8,
+    "name": "Tubagem de Ventilação",
+    "type": "CORREDOR",
+    "description": "Tens de rastejar.",
+    "neighborIds": [7, 9, 31, 15]
+  },
+  {
+    "id": 9,
+    "name": "Sala do Tesouro Perdido",
+    "type": "TESOURO",
+    "description": "Pilhas de ouro e joias brilham sob a luz das tochas! Encontraste a gloria!",
+    "locked": "true",
+    "items": ["Coracao de Dragao", "Botas de Hermes", "Elixir da Vida"],
+    "neighborIds": [8, 10, 37, 48, 3, 1]
+  },
+  {
+    "id": 10,
+    "name": "Passagem dos Ossos",
+    "type": "CORREDOR",
+    "description": "O chão esta coberto de ossos.",
+    "items": ["Espada Quebrada"],
+    "neighborIds": [9, 11, 31]
+  },
+  {
+    "id": 11,
+    "name": "Covil do Dragão (Vazio)",
+    "type": "DIVISAO",
+    "description": "Uma cama gigante de moedas... falsas.",
+    "items": ["Coracao de Dragao"],
+    "neighborIds": [10, 12, 40, 33]
+  },
+  {
+    "id": 12,
+    "name": "Jardim Subterraneo",
+    "type": "DIVISAO",
+    "description": "Plantas estranhas crescem sem luz.",
+    "items": ["Fruta Silvestre", "Fruta Silvestre"],
+    "neighborIds": [11, 13, 20, 16]
+  },
+  {
+    "id": 13,
+    "name": "Despensa",
+    "type": "DIVISAO",
+    "description": "Prateleiras com comida estragada.",
+    "enigma": {
+      "question": "O que e que cai em pe e corre deitado?",
+      "answer": "chuva"
+    },
+    "items": ["Maca Podre", "Cafe Expresso Duplo"],
+    "neighborIds": [12, 14, 20, 31, 35, 18]
+  },
+  {
+    "id": 14,
+    "name": "Corredor da Escuridão",
+    "type": "CORREDOR",
+    "description": "A tua tocha mal ilumina um metro.",
+    "eventType": "Surpresa",
+    "neighborIds": [13, 15]
+  },
+  {
+    "id": 15,
+    "name": "Corredor de Lava",
+    "type": "CORREDOR",
+    "description": "O calor e insuportavel.",
+    "eventType": "Surpresa",
+    "neighborIds": [14, 16, 8]
+  },
+  {
+    "id": 16,
+    "name": "Tunel das Larvas",
+    "type": "CORREDOR",
+    "description": "Insetos rastejam pelo teto.",
+    "eventType": "Surpresa",
+    "neighborIds": [15, 17, 12]
+  },
+  {
+    "id": 17,
+    "name": "Torre de Vigia (Base)",
+    "type": "DIVISAO",
+    "description": "Acesso a uma torre acima.",
+    "items": ["Barra Energetica"],
+    "neighborIds": [16, 18]
+  },
+  {
+    "id": 18,
+    "name": "Enfermaria de Campanha",
+    "type": "DIVISAO",
+    "description": "Camas velhas e ligaduras.",
+    "items": ["Kit Medico", "Bandagem Suja"],
+    "neighborIds": [17, 19, 43, 28, 13]
+  },
+  {
+    "id": 19,
+    "name": "Mina Abandonada",
+    "type": "CORREDOR",
+    "description": "Trilhos de vagonetas enferrujados.",
+    "items": ["Espada Quebrada"],
+    "neighborIds": [18, 20, 46]
+  },
+  {
+    "id": 20,
+    "name": "Sala de Musica",
+    "type": "DIVISAO",
+    "description": "Um orgao gigante toca sozinho as vezes.",
+    "items": ["Dardos Venenosos"],
+    "neighborIds": [19, 21, 12, 13, 2]
+  },
+  {
+    "id": 21,
+    "name": "Corredor Sangrento",
+    "type": "CORREDOR",
+    "description": "Ha marcas de luta nas paredes.",
+    "eventType": "Surpresa",
+    "neighborIds": [20, 22]
+  },
+  {
+    "id": 22,
+    "name": "Ponte Levadiça",
+    "type": "CORREDOR",
+    "description": "A manivela esta emperrada.",
+    "neighborIds": [21, 23, 42]
+  },
+  {
+    "id": 23,
+    "name": "Jardim Subterraneo",
+    "type": "DIVISAO",
+    "description": "Plantas estranhas crescem sem luz.",
+    "items": ["Fruta Silvestre", "Fruta Silvestre"],
+    "neighborIds": [22, 24]
+  },
+  {
+    "id": 24,
+    "name": "Arsenal da Guarda",
+    "type": "DIVISAO",
+    "description": "Estantes com armas enferrujadas.",
+    "lever": "true",
+    "items": ["Escudo Magico", "Espada Quebrada"],
+    "neighborIds": [23, 25]
+  },
+  {
+    "id": 25,
+    "name": "Santuário Esquecido",
+    "type": "DIVISAO",
+    "description": "Uma estatua de uma deusa sem cabeca.",
+    "items": ["Pocao de Cura Grande"],
+    "neighborIds": [24, 26]
+  },
+  {
+    "id": 26,
+    "name": "Covil do Dragão (Vazio)",
+    "type": "DIVISAO",
+    "description": "Uma cama gigante de moedas... falsas.",
+    "items": ["Coracao de Dragao"],
+    "neighborIds": [25, 27]
+  },
+  {
+    "id": 27,
+    "name": "Entrada da Caverna",
+    "type": "ENTRADA",
+    "description": "A luz do sol fica para tras. O ar e frio e pesado.",
+    "neighborIds": [26, 28]
+  },
+  {
+    "id": 28,
+    "name": "Cozinha Abandonada",
+    "type": "DIVISAO",
+    "description": "Pratos partidos e restos de comida.",
+    "items": ["Maca Podre", "Espada Quebrada"],
+    "neighborIds": [27, 29, 18]
+  },
+  {
+    "id": 29,
+    "name": "Corredor da Escuridão",
+    "type": "CORREDOR",
+    "description": "A tua tocha mal ilumina um metro.",
+    "eventType": "Surpresa",
+    "neighborIds": [28, 30, 49]
+  },
+  {
+    "id": 30,
+    "name": "Mina Abandonada",
+    "type": "CORREDOR",
+    "description": "Trilhos de vagonetas enferrujados.",
+    "items": ["Espada Quebrada"],
+    "neighborIds": [29, 31]
+  },
+  {
+    "id": 31,
+    "name": "Sala de Aula",
+    "type": "DIVISAO",
+    "description": "Quadros negros com formulas magicas.",
+    "items": ["Pergaminho de Tempestade"],
+    "neighborIds": [30, 32, 8, 13, 10]
+  },
+  {
+    "id": 32,
+    "name": "Poço Abandonado",
+    "type": "ENTRADA",
+    "description": "Desceste por uma corda velha para a escuridão.",
+    "items": ["Pedra da Calcada"],
+    "neighborIds": [31, 33, 5]
+  },
+  {
+    "id": 33,
+    "name": "Corredor Sangrento",
+    "type": "CORREDOR",
+    "description": "Ha marcas de luta nas paredes.",
+    "eventType": "Surpresa",
+    "neighborIds": [32, 34, 11]
+  },
+  {
+    "id": 34,
+    "name": "Caminho de Raízes",
+    "type": "CORREDOR",
+    "description": "Raízes gigantes atravessam as paredes.",
+    "items": ["Fruta Silvestre"],
+    "neighborIds": [33, 35, 38]
+  },
+  {
+    "id": 35,
+    "name": "Torre de Vigia (Base)",
+    "type": "DIVISAO",
+    "description": "Acesso a uma torre acima.",
+    "items": ["Barra Energetica"],
+    "neighborIds": [34, 36, 48, 13]
+  },
+  {
+    "id": 36,
+    "name": "Mina Abandonada",
+    "type": "CORREDOR",
+    "description": "Trilhos de vagonetas enferrujados.",
+    "items": ["Espada Quebrada"],
+    "neighborIds": [35, 37]
+  },
+  {
+    "id": 37,
+    "name": "Esgoto Antigo",
+    "type": "CORREDOR",
+    "description": "Agua suja corre pelos teus pes.",
+    "items": ["Maca Podre"],
+    "neighborIds": [36, 38, 9, 49]
+  },
+  {
+    "id": 38,
+    "name": "Sala dos Espelhos",
+    "type": "DIVISAO",
+    "description": "Tudo parece duplicado aqui.",
+    "eventType": "Surpresa",
+    "items": ["Bomba de Luz (Flashbang)"],
+    "neighborIds": [37, 39, 34]
+  },
+  {
+    "id": 39,
+    "name": "Passagem Secreta",
+    "type": "CORREDOR",
+    "description": "Uma parede falsa revelou este caminho.",
+    "items": ["Chave de Bronze"],
+    "neighborIds": [38, 40]
+  },
+  {
+    "id": 40,
+    "name": "Galeria dos Ecos",
+    "type": "CORREDOR",
+    "description": "Cada passo teu ecoa como um trovão.",
+    "items": ["Garrafa de Agua"],
+    "neighborIds": [39, 41, 11]
+  },
+  {
+    "id": 41,
+    "name": "Tunel de Gelo",
+    "type": "CORREDOR",
+    "description": "Tudo esta congelado.",
+    "items": ["Pergaminho de Tempestade"],
+    "neighborIds": [40, 42]
+  },
+  {
+    "id": 42,
+    "name": "Sala de Aula",
+    "type": "DIVISAO",
+    "description": "Quadros negros com formulas magicas.",
+    "items": ["Pergaminho de Tempestade"],
+    "neighborIds": [41, 43, 22, 3]
+  },
+  {
+    "id": 43,
+    "name": "Adega de Vinhos",
+    "type": "DIVISAO",
+    "description": "Barris velhos. A maioria vinagre.",
+    "items": ["Garrafa de Agua"],
+    "neighborIds": [42, 44, 18, 7]
+  },
+  {
+    "id": 44,
+    "name": "Cozinha Abandonada",
+    "type": "DIVISAO",
+    "description": "Pratos partidos e restos de comida.",
+    "items": ["Maca Podre", "Espada Quebrada"],
+    "neighborIds": [43, 45]
+  },
+  {
+    "id": 45,
+    "name": "Adega de Vinhos",
+    "type": "DIVISAO",
+    "description": "Barris velhos. A maioria vinagre.",
+    "items": ["Garrafa de Agua"],
+    "neighborIds": [44, 46]
+  },
+  {
+    "id": 46,
+    "name": "Passadiço de Madeira",
+    "type": "CORREDOR",
+    "description": "Range a cada passo.",
+    "neighborIds": [45, 47, 19, 2]
+  },
+  {
+    "id": 47,
+    "name": "Sala das Ilusoes",
+    "type": "DIVISAO",
+    "description": "As paredes parecem mover-se.",
+    "items": ["Bomba de Luz (Flashbang)"],
+    "neighborIds": [46, 48, 4]
+  },
+  {
+    "id": 48,
+    "name": "Alçapão Oculto",
+    "type": "ENTRADA",
+    "description": "Caiste atraves de madeira podre para este local escuro.",
+    "neighborIds": [47, 49, 9, 35]
+  },
+  {
+    "id": 49,
+    "name": "Banho Romano",
+    "type": "DIVISAO",
+    "description": "Uma piscina vazia com azulejos bonitos.",
+    "items": ["Garrafa de Agua"],
+    "neighborIds": [48, 50, 29, 37]
+  },
+  {
+    "id": 50,
+    "name": "Torre de Vigia (Base)",
+    "type": "DIVISAO",
+    "description": "Acesso a uma torre acima.",
+    "items": ["Barra Energetica"],
+    "neighborIds": [49]
+  }
+]

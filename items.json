@@ -1,0 +1,212 @@
+[
+  {
+    "nome": "Pocao de Cura Pequena",
+    "tipo": "CURA",
+    "valor": 25,
+    "descricao": "Um frasco com um liquido vermelho. Cura feridas leves."
+  },
+  {
+    "nome": "Pocao de Cura Grande",
+    "tipo": "CURA",
+    "valor": 60,
+    "descricao": "Um liquido espesso e brilhante. Restaura muita saude."
+  },
+  {
+    "nome": "Kit Medico",
+    "tipo": "CURA",
+    "valor": 50,
+    "descricao": "Ligaduras e alcool. Cura feridas graves."
+  },
+  {
+    "nome": "Kit Medico Militar",
+    "tipo": "CURA",
+    "valor": 100,
+    "descricao": "Tudo o que precisas para uma cirurgia de campo. Cura total."
+  },
+  {
+    "nome": "Bandagem Suja",
+    "tipo": "CURA",
+    "valor": 10,
+    "descricao": "Um trapo velho, melhor que nada para estancar o sangue."
+  },
+  {
+    "nome": "Elixir da Vida",
+    "tipo": "CURA",
+    "valor": 150,
+    "descricao": "Uma luz dourada emana do frasco. Cura milagrosa."
+  },
+  {
+    "nome": "Maca Podre",
+    "tipo": "CURA",
+    "valor": -15,
+    "descricao": "Parecia boa, mas deu-te dores de barriga e voas-te para a casa de banho."
+  },
+  {
+    "nome": "Garrafa de Agua",
+    "tipo": "STAMINA",
+    "valor": 20,
+    "descricao": "Agua fresca para hidratar e recuperar folego."
+  },
+  {
+    "nome": "Barra Energetica",
+    "tipo": "STAMINA",
+    "valor": 35,
+    "descricao": "Comida de racao seca. Nao sabe a nada, mas da energia."
+  },
+  {
+    "nome": "Cafe Expresso Duplo",
+    "tipo": "STAMINA",
+    "valor": 50,
+    "descricao": "Cafeina pura! Sentes o coracao a bater depressa."
+  },
+  {
+    "nome": "Fruta Silvestre",
+    "tipo": "STAMINA",
+    "valor": 15,
+    "descricao": "Uma pequena baga doce que encontraste num arbusto."
+  },
+  {
+    "nome": "Pergaminho de Fogo",
+    "tipo": "ATAQUE_GLOBAL",
+    "valor": 25,
+    "descricao": "Ao ler, uma onda de calor queima todos os outros jogadores."
+  },
+  {
+    "nome": "Pergaminho de Tempestade",
+    "tipo": "ATAQUE_GLOBAL",
+    "valor": 40,
+    "descricao": "Invoca relampagos que atingem todos os rivais na masmorra."
+  },
+  {
+    "nome": "Granada de Fragmentacao",
+    "tipo": "ATAQUE_GLOBAL",
+    "valor": 50,
+    "descricao": "KA-BOOM! Causa dano massivo a todos os rivais."
+  },
+  {
+    "nome": "Frasco de Acido Volatil",
+    "tipo": "ATAQUE_GLOBAL",
+    "valor": 20,
+    "descricao": "Ao partir-se, liberta um gas corrosivo que afeta todos."
+  },
+  {
+    "nome": "Dardos Venenosos",
+    "tipo": "ATAQUE_GLOBAL",
+    "valor": 15,
+    "descricao": "Dispara dardos em todas as direcoes. Dano leve a todos."
+  },
+  {
+    "nome": "Bomba de Luz (Flashbang)",
+    "tipo": "STUN_GLOBAL",
+    "valor": 0,
+    "descricao": "Cega temporariamente os inimigos. Eles perdem o proximo turno."
+  },
+  {
+    "nome": "Feitico de Sono",
+    "tipo": "STUN_GLOBAL",
+    "valor": 0,
+    "descricao": "Uma cancao de embalar magica. Todos adormecem por uma rodada."
+  },
+  {
+    "nome": "Grito da Banshee",
+    "tipo": "STUN_GLOBAL",
+    "valor": 0,
+    "descricao": "Um grito aterrador que paralisa todos com medo."
+  },
+  {
+    "nome": "Pedra da Calcada",
+    "tipo": "LIXO",
+    "valor": 0,
+    "descricao": "Uma pedra portuguesa. Nao serve para nada."
+  },
+  {
+    "nome": "Espada Quebrada",
+    "tipo": "LIXO",
+    "valor": 0,
+    "descricao": "O ferro esta enferrujado e o cabo partiu. Inutil."
+  },
+  {
+    "nome": "Bota Furada",
+    "tipo": "LIXO",
+    "valor": 0,
+    "descricao": "So encontraste o pe esquerdo. Cheira mal."
+  },
+  {
+    "nome": "Cinzas de Fogueira",
+    "tipo": "LIXO",
+    "valor": 0,
+    "descricao": "Restos de quem passou por aqui antes."
+  },
+  {
+    "nome": "Esqueleto de Rato",
+    "tipo": "LIXO",
+    "valor": 0,
+    "descricao": "Pobre animal. Nao ha nada para comer aqui."
+  },
+  {
+    "nome": "Moeda Falsa",
+    "tipo": "LIXO",
+    "valor": 0,
+    "descricao": "Parece ouro, mas e pirite. Nao vale nada."
+  },
+  {
+    "nome": "Chave de Bronze",
+    "tipo": "CHAVE",
+    "valor": 0,
+    "descricao": "Uma chave antiga. Pode abrir uma porta comum."
+  },
+  {
+    "nome": "Chave de Prata",
+    "tipo": "CHAVE",
+    "valor": 0,
+    "descricao": "Brilha intensamente. Parece importante."
+  },
+  {
+    "nome": "Chave Mestra Esqueletica",
+    "tipo": "CHAVE",
+    "valor": 0,
+    "descricao": "Feita de osso. Diz-se que abre qualquer fechadura simples."
+  },
+  {
+    "nome": "Escudo Magico",
+    "tipo": "PROTECAO",
+    "valor": 2,
+    "descricao": "Cria uma barreira azul. Ficas imune a dano por 2 turnos."
+  },
+  {
+    "nome": "Capa da Invisibilidade",
+    "tipo": "PROTECAO",
+    "valor": 3,
+    "descricao": "Tornas-te um vulto. Ninguem te pode atacar por 3 turnos."
+  },
+  {
+    "nome": "Amuleto da Sorte",
+    "tipo": "PROTECAO",
+    "valor": 1,
+    "descricao": "Protege-te de qualquer mal durante 1 turno."
+  },
+  {
+    "nome": "Pocao de Pele de Pedra",
+    "tipo": "PROTECAO",
+    "valor": 2,
+    "descricao": "A tua pele fica dura como rocha. Protecao por 2 turnos."
+  },
+  {
+    "nome": "Coracao de Dragao",
+    "tipo": "BONUS",
+    "valor": 30,
+    "descricao": "Um coracao pulsante. Aumenta a tua Vida Maxima permanentemente."
+  },
+  {
+    "nome": "Botas de Hermes",
+    "tipo": "BONUS",
+    "valor": 20,
+    "descricao": "Sentes-te mais leve. Aumenta a tua Stamina Maxima permanentemente."
+  },
+  {
+    "nome": "Anel de Vitalidade",
+    "tipo": "BONUS",
+    "valor": 15,
+    "descricao": "Um anel com uma esmeralda. Aumenta ligeiramente a Vida Maxima."
+  }
+]

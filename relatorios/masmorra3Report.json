@@ -1,0 +1,419 @@
+{
+  "game_logs": [
+  {
+    "turn": 1,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Escadaria em Espiral",
+    "hp": 80,
+    "stamina": 35,
+    "action": "MOVIMENTO",
+    "details": "Moveu-se para Escadaria em Espiral"
+  },
+  {
+    "turn": 1,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Escadaria em Espiral",
+    "hp": 96,
+    "stamina": 43,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Escadaria em Espiral"
+  },
+  {
+    "turn": 1,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Corredor das Teias",
+    "hp": 96,
+    "stamina": 43,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Corredor das Teias"
+  },
+  {
+    "turn": 2,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Escadaria em Espiral",
+    "hp": 80,
+    "stamina": 35,
+    "action": "EVENTO",
+    "details": "Encontraste um atalho secreto nos túneis! Joga novamente."
+  },
+  {
+    "turn": 2,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Enfermaria de Campanha",
+    "hp": 80,
+    "stamina": 30,
+    "action": "MOVIMENTO",
+    "details": "Moveu-se para Enfermaria de Campanha"
+  },
+  {
+    "turn": 3,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Sala de Treino",
+    "hp": 80,
+    "stamina": 25,
+    "action": "MOVIMENTO",
+    "details": "Moveu-se para Sala de Treino"
+  },
+  {
+    "turn": 3,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Escadaria em Espiral",
+    "hp": 96,
+    "stamina": 43,
+    "action": "EVENTO",
+    "details": "Encontraste um altar antigo com incenso a arder. Sentes paz interior."
+  },
+  {
+    "turn": 3,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Corredor das Teias",
+    "hp": 96,
+    "stamina": 38,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Corredor das Teias"
+  },
+  {
+    "turn": 3,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Corredor das Teias",
+    "hp": 96,
+    "stamina": 43,
+    "action": "EVENTO",
+    "details": "Um diabrete brincalhão teletransporta-te para o lugar de outro jogador!"
+  },
+  {
+    "turn": 3,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Sala de Treino",
+    "hp": 88,
+    "stamina": 43,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 4,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Corredor das Teias",
+    "hp": 80,
+    "stamina": 25,
+    "action": "EVENTO",
+    "details": "Encontraste um atalho secreto nos túneis! Joga novamente."
+  },
+  {
+    "turn": 4,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Santuário Esquecido",
+    "hp": 80,
+    "stamina": 20,
+    "action": "MOVIMENTO",
+    "details": "Moveu-se para Santuário Esquecido"
+  },
+  {
+    "turn": 5,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Adega de Vinhos",
+    "hp": 80,
+    "stamina": 15,
+    "action": "MOVIMENTO",
+    "details": "Moveu-se para Adega de Vinhos"
+  },
+  {
+    "turn": 5,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Corredor das Teias",
+    "hp": 96,
+    "stamina": 38,
+    "action": "EVENTO",
+    "details": "Sentiste uma brisa fresca vinda da saida. Ganhaste novo alento!"
+  },
+  {
+    "turn": 5,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Sala do Trono",
+    "hp": 96,
+    "stamina": 43,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Sala do Trono"
+  },
+  {
+    "turn": 5,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Sala de Treino",
+    "hp": 88,
+    "stamina": 43,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 6,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Santuário Esquecido",
+    "hp": 80,
+    "stamina": 10,
+    "action": "MOVIMENTO",
+    "details": "Moveu-se para Santuário Esquecido"
+  },
+  {
+    "turn": 6,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Sala do Trono",
+    "hp": 96,
+    "stamina": 43,
+    "action": "ALAVANCA",
+    "details": "Bot ativou alavanca."
+  },
+  {
+    "turn": 6,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Sala do Trono",
+    "hp": 96,
+    "stamina": 43,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 6,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Santuário Esquecido",
+    "hp": 80,
+    "stamina": 10,
+    "action": "EVENTO_GLOBAL",
+    "details": "A sala do tesouro foi destrancada!"
+  },
+  {
+    "turn": 6,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Alçapão Oculto",
+    "hp": 88,
+    "stamina": 38,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Alçapão Oculto"
+  },
+  {
+    "turn": 7,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Corredor das Teias",
+    "hp": 80,
+    "stamina": 5,
+    "action": "MOVIMENTO",
+    "details": "Moveu-se para Corredor das Teias"
+  },
+  {
+    "turn": 7,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Sala do Trono",
+    "hp": 96,
+    "stamina": 43,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 7,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Corredor das Runas",
+    "hp": 88,
+    "stamina": 33,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Corredor das Runas"
+  },
+  {
+    "turn": 8,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Sala do Trono",
+    "hp": 80,
+    "stamina": 0,
+    "action": "MOVIMENTO",
+    "details": "Moveu-se para Sala do Trono"
+  },
+  {
+    "turn": 8,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Dormitório dos Guardas",
+    "hp": 96,
+    "stamina": 38,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Dormitório dos Guardas"
+  },
+  {
+    "turn": 8,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Escriptorio do Governador",
+    "hp": 88,
+    "stamina": 28,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Escriptorio do Governador"
+  },
+  {
+    "turn": 9,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Sala do Trono",
+    "hp": 80,
+    "stamina": 20,
+    "action": "DESCANSO",
+    "details": "Descansou."
+  },
+  {
+    "turn": 9,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Dormitório dos Guardas",
+    "hp": 96,
+    "stamina": 38,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 9,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Escriptorio do Governador",
+    "hp": 88,
+    "stamina": 28,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 10,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Corredor das Teias",
+    "hp": 80,
+    "stamina": 15,
+    "action": "MOVIMENTO",
+    "details": "Moveu-se para Corredor das Teias"
+  },
+  {
+    "turn": 10,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Dormitório dos Guardas",
+    "hp": 96,
+    "stamina": 38,
+    "action": "BOT_SWAP",
+    "details": "Trocou item."
+  },
+  {
+    "turn": 10,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Enfermaria de Campanha",
+    "hp": 88,
+    "stamina": 13,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Enfermaria de Campanha"
+  },
+  {
+    "turn": 11,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Corredor das Teias",
+    "hp": 80,
+    "stamina": 15,
+    "action": "EVENTO",
+    "details": "Encontraste ligaduras limpas numa caixa velha."
+  },
+  {
+    "turn": 11,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Passadiço de Madeira",
+    "hp": 80,
+    "stamina": 10,
+    "action": "MOVIMENTO",
+    "details": "Moveu-se para Passadiço de Madeira"
+  },
+  {
+    "turn": 11,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Enfermaria de Campanha",
+    "hp": 96,
+    "stamina": 33,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Enfermaria de Campanha"
+  },
+  {
+    "turn": 11,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Enfermaria de Campanha",
+    "hp": 88,
+    "stamina": 13,
+    "action": "BOT_SWAP",
+    "details": "Trocou item."
+  },
+  {
+    "turn": 12,
+    "player": "eu",
+    "class": "NINJA",
+    "location": "Esgoto Antigo",
+    "hp": 80,
+    "stamina": 5,
+    "action": "MOVIMENTO",
+    "details": "Moveu-se para Esgoto Antigo"
+  },
+  {
+    "turn": 12,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Enfermaria de Campanha",
+    "hp": 96,
+    "stamina": 33,
+    "action": "BOT_SWAP",
+    "details": "Trocou item."
+  },
+  {
+    "turn": 12,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Sala do Tesouro Perdido",
+    "hp": 88,
+    "stamina": 8,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Sala do Tesouro Perdido"
+  },
+  {
+    "turn": 12,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Sala do Tesouro Perdido",
+    "hp": 88,
+    "stamina": 8,
+    "action": "VITORIA",
+    "details": "Encontrou o tesouro e venceu o jogo."
+  }
+  ],
+  "player_paths": {
+    "eu": "Portão em Ruínas -> Escadaria em Espiral -> Enfermaria de Campanha -> Sala de Treino -> Corredor das Teias -> Santuário Esquecido -> Adega de Vinhos -> Santuário Esquecido -> Corredor das Teias -> Sala do Trono -> Corredor das Teias -> Passadiço de Madeira -> Esgoto Antigo",
+    "Bot_2": "Portão em Ruínas -> Escadaria em Espiral -> Corredor das Teias -> Sala do Trono -> Dormitório dos Guardas -> Enfermaria de Campanha",
+    "Bot_3": "Entrada do Esgoto -> Corredor das Teias -> Sala de Treino -> Alçapão Oculto -> Corredor das Runas -> Escriptorio do Governador -> Enfermaria de Campanha -> Sala do Tesouro Perdido"
+  }
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "description": "Um morcego mordeu-te o pescoco!",
+    "type": "DANO",
+    "value": 10
+  },
+  {
+    "id": 2,
+    "description": "Encontraste uma fonte de agua fresca.",
+    "type": "STAMINA",
+    "value": 15
+  },
+  {
+    "id": 3,
+    "description": "Escorregaste numa casca de banana... Au!",
+    "type": "DANO",
+    "value": 5
+  },
+  {
+    "id": 4,
+    "description": "Ouviste um barulho assustador, mas era so o vento nos tuneis.",
+    "type": "FLAVOR",
+    "value": 0
+  },
+  {
+    "id": 5,
+    "description": "Pisaste uma armadilha de espinhos antiga!",
+    "type": "TRAP",
+    "value": 15
+  },
+  {
+    "id": 6,
+    "description": "Encontraste uns cogumelos brilhantes e comeste-os. Sentes-te revigorado!",
+    "type": "CURA",
+    "value": 20
+  },
+  {
+    "id": 7,
+    "description": "Uma aranha gigante caiu do teto em cima de ti.",
+    "type": "DANO",
+    "value": 12
+  },
+  {
+    "id": 8,
+    "description": "Paraste para descansar num canto seguro e seco.",
+    "type": "STAMINA",
+    "value": 25
+  },
+  {
+    "id": 9,
+    "description": "Um rato roubou-te um pedaco de pão da mochila. Que lata!",
+    "type": "FLAVOR",
+    "value": 0
+  },
+  {
+    "id": 10,
+    "description": "Tropeçaste numa raiz saliente e torceste o tornozelo.",
+    "type": "DANO",
+    "value": 8
+  },
+  {
+    "id": 11,
+    "description": "Encontraste um frasco de elixir esquecido por outro aventureiro.",
+    "type": "CURA",
+    "value": 30
+  },
+  {
+    "id": 12,
+    "description": "O ar aqui e pesado e toxico. Comecas a tossir violentamente.",
+    "type": "STAMINA",
+    "value": -10
+  },
+  {
+    "id": 13,
+    "description": "Viste o fantasma de um rei antigo a atravessar a parede.",
+    "type": "FLAVOR",
+    "value": 0
+  },
+  {
+    "id": 14,
+    "description": "Uma pedra solta caiu-te na cabeca!",
+    "type": "DANO",
+    "value": 20
+  },
+  {
+    "id": 15,
+    "description": "Sentiste uma brisa fresca vinda da saida. Ganhaste novo alento!",
+    "type": "STAMINA",
+    "value": 10
+  },
+  {
+    "id": 16,
+    "description": "Encontraste ligaduras limpas numa caixa velha.",
+    "type": "CURA",
+    "value": 15
+  },
+  {
+    "id": 17,
+    "description": "Um esqueleto levantou-se e tentou arranhar-te antes de se desfazer em po.",
+    "type": "DANO",
+    "value": 5
+  },
+  {
+    "id": 18,
+    "description": "Leste umas inscricoes antigas na parede. Nao faziam sentido nenhum.",
+    "type": "FLAVOR",
+    "value": 0
+  },
+  {
+    "id": 19,
+    "description": "O chao cedeu por um momento. O susto deixou-te ofegante.",
+    "type": "STAMINA",
+    "value": -15
+  },
+  {
+    "id": 20,
+    "description": "Um raio de luz divina ilumina a sala e cura as tuas feridas.",
+    "type": "CURA",
+    "value": 50
+  },
+  {
+    "id": 21,
+    "description": "Click... Vuuuush! Setas voaram da parede!",
+    "type": "TRAP",
+    "value": 15
+  },
+  {
+    "id": 22,
+    "description": "O chao abriu-se completamente e caiste num fosso com estacas.",
+    "type": "TRAP",
+    "value": 25
+  },
+  {
+    "id": 23,
+    "description": "Uma rede caiu do teto e apertou-te contra o chao.",
+    "type": "TRAP",
+    "value": 10
+  },
+  {
+    "id": 24,
+    "description": "Um bau parecia conter ouro, mas era um Mímico! Mordeu-te a mao.",
+    "type": "DANO",
+    "value": 30
+  },
+  {
+    "id": 25,
+    "description": "Gota a gota... Um liquido acido cai do teto e queima o teu ombro.",
+    "type": "DANO",
+    "value": 10
+  },
+  {
+    "id": 26,
+    "description": "Pisas uma runa magica no chao. Uma pequena explosao atira-te ao ar.",
+    "type": "TRAP",
+    "value": 20
+  },
+  {
+    "id": 27,
+    "description": "Encontraste um altar antigo com incenso a arder. Sentes paz interior.",
+    "type": "CURA",
+    "value": 25
+  },
+  {
+    "id": 28,
+    "description": "Um frio sobrenatural atravessa os teus ossos. Tremes incontrolavelmente.",
+    "type": "STAMINA",
+    "value": -20
+  },
+  {
+    "id": 29,
+    "description": "Ouviste um rugido distante nas profundezas. O que sera aquilo?",
+    "type": "FLAVOR",
+    "value": 0
+  },
+  {
+    "id": 30,
+    "description": "Adrenalina pura! Sentes que consegues correr uma maratona.",
+    "type": "STAMINA",
+    "value": 30
+  },
+  {
+    "id": 31,
+    "description": "Uma pedra gigante rolou na tua direcao tipo Indiana Jones! Escapaste por pouco.",
+    "type": "TRAP",
+    "value": 15
+  },
+  {
+    "id": 32,
+    "description": "Um Goblin ladrao saltou das sombras e deu-te um pontape nas canelas.",
+    "type": "DANO",
+    "value": 5
+  },
+  {
+    "id": 33,
+    "description": "Encontraste um arbusto com bagas medicinais a crescer numa fenda.",
+    "type": "CURA",
+    "value": 15
+  },
+  {
+    "id": 34,
+    "description": "Pisas uma poça de lama pegajosa. Custa imenso sair dali.",
+    "type": "STAMINA",
+    "value": -10
+  },
+  {
+    "id": 35,
+    "description": "Vês o teu próprio reflexo num espelho antigo, mas o reflexo não se mexe...",
+    "type": "FLAVOR",
+    "value": 0
+  },
+  {
+    "id": 36,
+    "description": "Um gás misterioso deixa-te tonto. Perdes o próximo turno!",
+    "type": "SKIP_TURN",
+    "value": 1
+  },
+  {
+    "id": 37,
+    "description": "Bebeste um café turbinado! Ganhas uma jogada extra imediata.",
+    "type": "EXTRA_TURN",
+    "value": 1
+  },
+  {
+    "id": 38,
+    "description": "Um portal mágico trocou-te de lugar com outro jogador aleatório!",
+    "type": "SWAP_POSITION",
+    "value": 0
+  },
+  {
+    "id": 39,
+    "description": "O vento nos túneis empurra-te para trás!",
+    "type": "MOVE_BACK",
+    "value": 1
+  },
+  {
+    "id": 40,
+    "description": "Caos Total! Um feitiço antigo trocou a posição de TODOS os jogadores.",
+    "type": "SWAP_ALL",
+    "value": 0
+  },
+  {
+    "id": 41,
+    "description": "Ficas preso numa teia de aranha gigante! Perdes 2 turnos a tentar sair.",
+    "type": "SKIP_TURN",
+    "value": 2
+  },
+  {
+    "id": 42,
+    "description": "Encontraste um atalho secreto nos túneis! Joga novamente.",
+    "type": "EXTRA_TURN",
+    "value": 1
+  },
+  {
+    "id": 43,
+    "description": "Um diabrete brincalhão teletransporta-te para o lugar de outro jogador!",
+    "type": "SWAP_POSITION",
+    "value": 0
+  },
+  {
+    "id": 44,
+    "description": "O chão desmorona-se à tua frente! Tens de recuar para a sala anterior.",
+    "type": "MOVE_BACK",
+    "value": 1
+  },
+  {
+    "id": 45,
+    "description": "Terremoto mágico! As posições de todos os aventureiros foram baralhadas.",
+    "type": "SWAP_ALL",
+    "value": 0
+  }
+]

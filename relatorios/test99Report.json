@@ -1,0 +1,399 @@
+{
+  "game_logs": [
+  {
+    "turn": 1,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Corredor Alagado",
+    "hp": 96,
+    "stamina": 43,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Corredor Alagado"
+  },
+  {
+    "turn": 1,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Santuário Esquecido",
+    "hp": 96,
+    "stamina": 43,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Santuário Esquecido"
+  },
+  {
+    "turn": 1,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Poço Abandonado",
+    "hp": 96,
+    "stamina": 48,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 2,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Corredor Alagado",
+    "hp": 96,
+    "stamina": 43,
+    "action": "EVENTO",
+    "details": "Um esqueleto levantou-se e tentou arranhar-te antes de se desfazer em po."
+  },
+  {
+    "turn": 2,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Esgoto Antigo",
+    "hp": 91,
+    "stamina": 38,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Esgoto Antigo"
+  },
+  {
+    "turn": 2,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Santuário Esquecido",
+    "hp": 96,
+    "stamina": 43,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 2,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Tubagem de Ventilação",
+    "hp": 96,
+    "stamina": 43,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Tubagem de Ventilação"
+  },
+  {
+    "turn": 3,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Esgoto Antigo",
+    "hp": 91,
+    "stamina": 38,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 3,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Corredor Alagado",
+    "hp": 96,
+    "stamina": 38,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Corredor Alagado"
+  },
+  {
+    "turn": 3,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Corredor de Lava",
+    "hp": 96,
+    "stamina": 38,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Corredor de Lava"
+  },
+  {
+    "turn": 4,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Sala do Relogio",
+    "hp": 91,
+    "stamina": 33,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Sala do Relogio"
+  },
+  {
+    "turn": 4,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Esgoto Antigo",
+    "hp": 96,
+    "stamina": 33,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Esgoto Antigo"
+  },
+  {
+    "turn": 4,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Corredor de Lava",
+    "hp": 96,
+    "stamina": 38,
+    "action": "EVENTO",
+    "details": "Escorregaste numa casca de banana... Au!"
+  },
+  {
+    "turn": 4,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Sala de Tortura",
+    "hp": 91,
+    "stamina": 33,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Sala de Tortura"
+  },
+  {
+    "turn": 5,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Sala do Relogio",
+    "hp": 91,
+    "stamina": 33,
+    "action": "ALAVANCA",
+    "details": "Bot ativou alavanca."
+  },
+  {
+    "turn": 5,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Sala do Relogio",
+    "hp": 91,
+    "stamina": 33,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 5,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Sala do Relogio",
+    "hp": 91,
+    "stamina": 33,
+    "action": "EVENTO_GLOBAL",
+    "details": "A sala do tesouro foi destrancada!"
+  },
+  {
+    "turn": 5,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Esgoto Antigo",
+    "hp": 96,
+    "stamina": 33,
+    "action": "EVENTO",
+    "details": "Encontraste um altar antigo com incenso a arder. Sentes paz interior."
+  },
+  {
+    "turn": 5,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Corredor das Teias",
+    "hp": 96,
+    "stamina": 28,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Corredor das Teias"
+  },
+  {
+    "turn": 5,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Sala de Tortura",
+    "hp": 91,
+    "stamina": 33,
+    "action": "EVENTO",
+    "details": "Um Goblin ladrao saltou das sombras e deu-te um pontape nas canelas."
+  },
+  {
+    "turn": 5,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Sala de Tortura",
+    "hp": 86,
+    "stamina": 33,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 6,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Tunel Colapsado",
+    "hp": 91,
+    "stamina": 28,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Tunel Colapsado"
+  },
+  {
+    "turn": 6,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Corredor das Teias",
+    "hp": 96,
+    "stamina": 28,
+    "action": "EVENTO",
+    "details": "O ar aqui e pesado e toxico. Comecas a tossir violentamente."
+  },
+  {
+    "turn": 6,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Passagem Secreta",
+    "hp": 96,
+    "stamina": 13,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Passagem Secreta"
+  },
+  {
+    "turn": 6,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Corredor de Lava",
+    "hp": 86,
+    "stamina": 28,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Corredor de Lava"
+  },
+  {
+    "turn": 7,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Tunel Colapsado",
+    "hp": 91,
+    "stamina": 28,
+    "action": "EVENTO",
+    "details": "O chao cedeu por um momento. O susto deixou-te ofegante."
+  },
+  {
+    "turn": 7,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Tunel Colapsado",
+    "hp": 91,
+    "stamina": 13,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 7,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Passagem Secreta",
+    "hp": 96,
+    "stamina": 13,
+    "action": "BOT_ITEM",
+    "details": "Apanhou item."
+  },
+  {
+    "turn": 7,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Corredor de Lava",
+    "hp": 86,
+    "stamina": 28,
+    "action": "EVENTO",
+    "details": "Uma rede caiu do teto e apertou-te contra o chao."
+  },
+  {
+    "turn": 7,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Tubagem de Ventilação",
+    "hp": 66,
+    "stamina": 23,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Tubagem de Ventilação"
+  },
+  {
+    "turn": 8,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Tunel Colapsado",
+    "hp": 91,
+    "stamina": 13,
+    "action": "EVENTO",
+    "details": "Sentiste uma brisa fresca vinda da saida. Ganhaste novo alento!"
+  },
+  {
+    "turn": 8,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Ponte Levadiça",
+    "hp": 91,
+    "stamina": 18,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Ponte Levadiça"
+  },
+  {
+    "turn": 8,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Fenda na Parede",
+    "hp": 96,
+    "stamina": 23,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Fenda na Parede"
+  },
+  {
+    "turn": 8,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Tubagem de Ventilação",
+    "hp": 66,
+    "stamina": 23,
+    "action": "EVENTO",
+    "details": "Gota a gota... Um liquido acido cai do teto e queima o teu ombro."
+  },
+  {
+    "turn": 8,
+    "player": "Bot_3",
+    "class": "HEROI",
+    "location": "Passagem Secreta",
+    "hp": 56,
+    "stamina": 18,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Passagem Secreta"
+  },
+  {
+    "turn": 9,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Ponte Levadiça",
+    "hp": 91,
+    "stamina": 18,
+    "action": "EVENTO",
+    "details": "Escorregaste numa casca de banana... Au!"
+  },
+  {
+    "turn": 9,
+    "player": "Bot_1",
+    "class": "HEROI",
+    "location": "Fenda na Parede",
+    "hp": 86,
+    "stamina": 13,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Fenda na Parede"
+  },
+  {
+    "turn": 9,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Sala do Tesouro Perdido",
+    "hp": 96,
+    "stamina": 18,
+    "action": "BOT_MOVE",
+    "details": "Moveu para Sala do Tesouro Perdido"
+  },
+  {
+    "turn": 9,
+    "player": "Bot_2",
+    "class": "HEROI",
+    "location": "Sala do Tesouro Perdido",
+    "hp": 96,
+    "stamina": 18,
+    "action": "VITORIA",
+    "details": "Encontrou o tesouro e venceu o jogo."
+  }
+  ],
+  "player_paths": {
+    "Bot_1": "Fenda no Vulcão -> Corredor Alagado -> Esgoto Antigo -> Sala do Relogio -> Tunel Colapsado -> Ponte Levadiça -> Fenda na Parede",
+    "Bot_2": "Entrada do Esgoto -> Santuário Esquecido -> Corredor Alagado -> Esgoto Antigo -> Corredor das Teias -> Passagem Secreta -> Fenda na Parede -> Sala do Tesouro Perdido",
+    "Bot_3": "Poço Abandonado -> Tubagem de Ventilação -> Corredor de Lava -> Sala de Tortura -> Corredor de Lava -> Tubagem de Ventilação -> Passagem Secreta"
+  }
+}

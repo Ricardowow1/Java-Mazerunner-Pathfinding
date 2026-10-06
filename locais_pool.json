@@ -1,0 +1,712 @@
+[
+  {
+    "id": 0,
+    "name": "Sala do Tesouro Perdido",
+    "type": "TESOURO",
+    "description": "Pilhas de ouro e joias brilham sob a luz das tochas! Encontraste a gloria!",
+    "items": [
+      "Coracao de Dragao",
+      "Botas de Hermes",
+      "Elixir da Vida"
+    ],
+    "locked": "true"
+  },
+  {
+    "id": 0,
+    "name": "Entrada da Caverna",
+    "type": "ENTRADA",
+    "description": "A luz do sol fica para tras. O ar e frio e pesado."
+  },
+  {
+    "id": 0,
+    "name": "Portão em Ruínas",
+    "type": "ENTRADA",
+    "description": "Um arco de pedra antigo coberto de musgo."
+  },
+  {
+    "id": 0,
+    "name": "Fenda no Vulcão",
+    "type": "ENTRADA",
+    "description": "Faz muito calor aqui. O chão treme ligeiramente."
+  },
+  {
+    "id": 0,
+    "name": "Poço Abandonado",
+    "type": "ENTRADA",
+    "description": "Desceste por uma corda velha para a escuridão.",
+    "items": [
+      "Pedra da Calcada"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Alçapão Oculto",
+    "type": "ENTRADA",
+    "description": "Caiste atraves de madeira podre para este local escuro."
+  },
+  {
+    "id": 0,
+    "name": "Entrada do Esgoto",
+    "type": "ENTRADA",
+    "description": "O cheiro e nauseabundo, mas e o unico caminho."
+  },
+  {
+    "id": 0,
+    "name": "Corredor Húmido",
+    "type": "CORREDOR",
+    "description": "Gotas de agua caem do teto."
+  },
+  {
+    "id": 0,
+    "name": "Tunel Estreito",
+    "type": "CORREDOR",
+    "description": "Tens de andar de lado para passar."
+  },
+  {
+    "id": 0,
+    "name": "Galeria dos Ecos",
+    "type": "CORREDOR",
+    "description": "Cada passo teu ecoa como um trovão.",
+    "items": [
+      "Garrafa de Agua"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Ponte Suspensa",
+    "type": "CORREDOR",
+    "description": "Uma ponte de madeira velha sobre um abismo.",
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Escadaria em Espiral",
+    "type": "CORREDOR",
+    "description": "Desce profundamente para a escuridão."
+  },
+  {
+    "id": 0,
+    "name": "Passagem dos Ossos",
+    "type": "CORREDOR",
+    "description": "O chão esta coberto de ossos.",
+    "items": [
+      "Espada Quebrada"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Corredor das Teias",
+    "type": "CORREDOR",
+    "description": "Teias de aranha cobrem as paredes.",
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Esgoto Antigo",
+    "type": "CORREDOR",
+    "description": "Agua suja corre pelos teus pes.",
+    "items": [
+      "Maca Podre"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Fenda na Parede",
+    "type": "CORREDOR",
+    "description": "Uma abertura natural na rocha."
+  },
+  {
+    "id": 0,
+    "name": "Tunel de Vento",
+    "type": "CORREDOR",
+    "description": "Uma corrente de ar forte quase apaga a tocha."
+  },
+  {
+    "id": 0,
+    "name": "Galeria dos Espelhos",
+    "type": "CORREDOR",
+    "description": "Vês o teu reflexo distorcido.",
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Tunel de Cristal",
+    "type": "CORREDOR",
+    "description": "Cristais azuis iluminam o caminho."
+  },
+  {
+    "id": 0,
+    "name": "Corredor das Estátuas",
+    "type": "CORREDOR",
+    "description": "Estátuas de guerreiros observam-te.",
+    "items": [
+      "Pedra da Calcada"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Fosso Sem Fundo",
+    "type": "CORREDOR",
+    "description": "Caminho estreito à beira de um precipício."
+  },
+  {
+    "id": 0,
+    "name": "Caminho de Raízes",
+    "type": "CORREDOR",
+    "description": "Raízes gigantes atravessam as paredes.",
+    "items": [
+      "Fruta Silvestre"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Corredor Alagado",
+    "type": "CORREDOR",
+    "description": "Água até aos joelhos."
+  },
+  {
+    "id": 0,
+    "name": "Passagem Secreta",
+    "type": "CORREDOR",
+    "description": "Uma parede falsa revelou este caminho.",
+    "items": [
+      "Chave de Bronze"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Corredor de Lava",
+    "type": "CORREDOR",
+    "description": "O calor e insuportavel.",
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Mina Abandonada",
+    "type": "CORREDOR",
+    "description": "Trilhos de vagonetas enferrujados.",
+    "items": [
+      "Espada Quebrada"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Tunel de Gelo",
+    "type": "CORREDOR",
+    "description": "Tudo esta congelado.",
+    "items": [
+      "Pergaminho de Tempestade"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Ponte de Pedra",
+    "type": "CORREDOR",
+    "description": "Uma ponte solida sobre um rio subterraneo."
+  },
+  {
+    "id": 0,
+    "name": "Corredor dos Sussurros",
+    "type": "CORREDOR",
+    "description": "Ouviste o teu nome?",
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Tubagem de Ventilação",
+    "type": "CORREDOR",
+    "description": "Tens de rastejar."
+  },
+  {
+    "id": 0,
+    "name": "Corredor da Escuridão",
+    "type": "CORREDOR",
+    "description": "A tua tocha mal ilumina um metro.",
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Rampa Escorregadia",
+    "type": "CORREDOR",
+    "description": "Musgo torna o chao perigoso."
+  },
+  {
+    "id": 0,
+    "name": "Encruzilhada",
+    "type": "CORREDOR",
+    "description": "Varios caminhos encontram-se aqui."
+  },
+  {
+    "id": 0,
+    "name": "Tunel Colapsado",
+    "type": "CORREDOR",
+    "description": "Pedras bloqueiam parte do caminho.",
+    "items": [
+      "Cinzas de Fogueira"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Corredor Sangrento",
+    "type": "CORREDOR",
+    "description": "Ha marcas de luta nas paredes.",
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Passadiço de Madeira",
+    "type": "CORREDOR",
+    "description": "Range a cada passo."
+  },
+  {
+    "id": 0,
+    "name": "Galeria de Arte",
+    "type": "CORREDOR",
+    "description": "Quadros rasgados de antigos reis.",
+    "items": [
+      "Moeda Falsa"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Corredor das Runas",
+    "type": "CORREDOR",
+    "description": "Simbolos brilham nas paredes."
+  },
+  {
+    "id": 0,
+    "name": "Tunel das Larvas",
+    "type": "CORREDOR",
+    "description": "Insetos rastejam pelo teto.",
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Ponte Levadiça",
+    "type": "CORREDOR",
+    "description": "A manivela esta emperrada."
+  },
+  {
+    "id": 0,
+    "name": "Cozinha Abandonada",
+    "type": "DIVISAO",
+    "description": "Pratos partidos e restos de comida.",
+    "items": [
+      "Maca Podre",
+      "Espada Quebrada"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Arsenal da Guarda",
+    "type": "DIVISAO",
+    "description": "Estantes com armas enferrujadas.",
+    "items": [
+      "Escudo Magico",
+      "Espada Quebrada"
+    ],
+    "lever": "true"
+  },
+  {
+    "id": 0,
+    "name": "Enfermaria de Campanha",
+    "type": "DIVISAO",
+    "description": "Camas velhas e ligaduras.",
+    "items": [
+      "Kit Medico",
+      "Bandagem Suja"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Biblioteca Arcana",
+    "type": "DIVISAO",
+    "description": "Livros de magia desfeitos.",
+    "items": [
+      "Cafe Expresso Duplo",
+      "Pergaminho de Fogo"
+    ],
+    "enigma": "true"
+  },
+  {
+    "id": 0,
+    "name": "Cela do Prisioneiro",
+    "type": "DIVISAO",
+    "description": "Riscos na parede contam os dias.",
+    "items": [
+      "Chave de Bronze"
+    ],
+    "lever": "true"
+  },
+  {
+    "id": 0,
+    "name": "Sala do Alquimista",
+    "type": "DIVISAO",
+    "description": "Frascos de vidro e cheiro a enxofre.",
+    "items": [
+      "Pocao de Cura Pequena",
+      "Frasco de Acido Volatil"
+    ],
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Jardim Subterraneo",
+    "type": "DIVISAO",
+    "description": "Plantas estranhas crescem sem luz.",
+    "items": [
+      "Fruta Silvestre",
+      "Fruta Silvestre"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Cripta Real",
+    "type": "DIVISAO",
+    "description": "Sarcófagos de pedra.",
+    "items": [
+      "Anel de Vitalidade"
+    ],
+    "lever": "true"
+  },
+  {
+    "id": 0,
+    "name": "Sala de Tortura",
+    "type": "DIVISAO",
+    "description": "Instrumentos horriveis.",
+    "items": [
+      "Chave Mestra Esqueletica"
+    ],
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Forja do Ferreiro",
+    "type": "DIVISAO",
+    "description": "A fornalha ainda esta morna.",
+    "items": [
+      "Pocao de Pele de Pedra"
+    ],
+    "lever": "true"
+  },
+  {
+    "id": 0,
+    "name": "Dormitório dos Guardas",
+    "type": "DIVISAO",
+    "description": "Beliches de madeira podre.",
+    "items": [
+      "Barra Energetica",
+      "Bota Furada"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Sala do Trono",
+    "type": "DIVISAO",
+    "description": "Um trono majestoso coberto de po.",
+    "items": [
+      "Capa da Invisibilidade",
+      "Chave de Prata"
+    ],
+    "lever": "true"
+  },
+  {
+    "id": 0,
+    "name": "Canil das Bestas",
+    "type": "DIVISAO",
+    "description": "Jaulas abertas e correntes.",
+    "items": [
+      "Esqueleto de Rato"
+    ],
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Observatório",
+    "type": "DIVISAO",
+    "description": "Um telescópio aponta para uma fenda no teto.",
+    "items": [
+      "Pergaminho de Tempestade"
+    ],
+    "enigma": "true"
+  },
+  {
+    "id": 0,
+    "name": "Despensa",
+    "type": "DIVISAO",
+    "description": "Prateleiras com comida estragada.",
+    "items": [
+      "Maca Podre",
+      "Cafe Expresso Duplo"
+    ],
+    "enigma": "true"
+  },
+  {
+    "id": 0,
+    "name": "Sala de Jantar",
+    "type": "DIVISAO",
+    "description": "Uma mesa longa posta para fantasmas.",
+    "items": [
+      "Pocao de Cura Pequena"
+    ],
+    "enigma": "true"
+  },
+  {
+    "id": 0,
+    "name": "Adega de Vinhos",
+    "type": "DIVISAO",
+    "description": "Barris velhos. A maioria vinagre.",
+    "items": [
+      "Garrafa de Agua"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Sala de Mapas",
+    "type": "DIVISAO",
+    "description": "Mapas antigos da regiao na parede.",
+    "items": [
+      "Amuleto da Sorte"
+    ],
+    "lever": "true"
+  },
+  {
+    "id": 0,
+    "name": "Santuário Esquecido",
+    "type": "DIVISAO",
+    "description": "Uma estatua de uma deusa sem cabeca.",
+    "items": [
+      "Pocao de Cura Grande"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Sala dos Espelhos",
+    "type": "DIVISAO",
+    "description": "Tudo parece duplicado aqui.",
+    "items": [
+      "Bomba de Luz (Flashbang)"
+    ],
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Covil do Dragão (Vazio)",
+    "type": "DIVISAO",
+    "description": "Uma cama gigante de moedas... falsas.",
+    "items": [
+      "Coracao de Dragao"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Laboratório de Necromancia",
+    "type": "DIVISAO",
+    "description": "Ossos e runas negras no chao.",
+    "items": [
+      "Feitico de Sono"
+    ],
+    "lever": "true"
+  },
+  {
+    "id": 0,
+    "name": "Sala de Treino",
+    "type": "DIVISAO",
+    "description": "Bonecos de palha destruidos.",
+    "items": [
+      "Granada de Fragmentacao",
+      "Espada Quebrada"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Sala de Musica",
+    "type": "DIVISAO",
+    "description": "Um orgao gigante toca sozinho as vezes.",
+    "items": [
+      "Dardos Venenosos"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Sala do Tesoureiro",
+    "type": "DIVISAO",
+    "description": "Livros de contabilidade e moedas soltas.",
+    "items": [
+      "Chave de Bronze"
+    ],
+    "enigma": "true"
+  },
+  {
+    "id": 0,
+    "name": "Mina de Cristais",
+    "type": "DIVISAO",
+    "description": "Cristais brutos nas paredes.",
+    "items": [
+      "Botas de Hermes"
+    ],
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Sala de Rituais",
+    "type": "DIVISAO",
+    "description": "Sangue seco no centro.",
+    "items": [
+      "Kit Medico Militar"
+    ],
+    "enigma": "true"
+  },
+  {
+    "id": 0,
+    "name": "Estufa Toxica",
+    "type": "DIVISAO",
+    "description": "Plantas carnívoras em vasos.",
+    "items": [
+      "Frasco de Acido Volatil"
+    ],
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Sala de Trofeus",
+    "type": "DIVISAO",
+    "description": "Cabecas de monstros empalhadas.",
+    "items": [
+      "Escudo Magico"
+    ],
+    "lever": "true"
+  },
+  {
+    "id": 0,
+    "name": "Banho Romano",
+    "type": "DIVISAO",
+    "description": "Uma piscina vazia com azulejos bonitos.",
+    "items": [
+      "Garrafa de Agua"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Fosso dos Gladiadores",
+    "type": "DIVISAO",
+    "description": "Areia e manchas de sangue.",
+    "items": [
+      "Pergaminho de Fogo"
+    ],
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Sala das Maquinas",
+    "type": "DIVISAO",
+    "description": "Engrenagens gigantes paradas.",
+    "items": [
+      "Chave Mestra Esqueletica"
+    ],
+    "lever": "true"
+  },
+  {
+    "id": 0,
+    "name": "Ninho da Aranha",
+    "type": "DIVISAO",
+    "description": "Tudo coberto de seda branca.",
+    "items": [
+      "Pocao de Cura Pequena"
+    ],
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Sala de Jogos",
+    "type": "DIVISAO",
+    "description": "Dados e cartas espalhados.",
+    "items": [
+      "Amuleto da Sorte",
+      "Moeda Falsa"
+    ],
+    "enigma": "true"
+  },
+  {
+    "id": 0,
+    "name": "Sala Secreta do Mago",
+    "type": "DIVISAO",
+    "description": "Flutua no vazio.",
+    "items": [
+      "Elixir da Vida"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Escriptorio do Governador",
+    "type": "DIVISAO",
+    "description": "Mesa de carvalho imponente.",
+    "items": [
+      "Chave de Prata"
+    ],
+    "lever": "true"
+  },
+  {
+    "id": 0,
+    "name": "Sala de Aula",
+    "type": "DIVISAO",
+    "description": "Quadros negros com formulas magicas.",
+    "items": [
+      "Pergaminho de Tempestade"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Cemiterio Interior",
+    "type": "DIVISAO",
+    "description": "Tumulos abertos no chao de terra.",
+    "items": [
+      "Cinzas de Fogueira"
+    ],
+    "eventType": "Surpresa"
+  },
+  {
+    "id": 0,
+    "name": "Sala das Ilusoes",
+    "type": "DIVISAO",
+    "description": "As paredes parecem mover-se.",
+    "items": [
+      "Bomba de Luz (Flashbang)"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Torre de Vigia (Base)",
+    "type": "DIVISAO",
+    "description": "Acesso a uma torre acima.",
+    "items": [
+      "Barra Energetica"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Sala do Relogio",
+    "type": "DIVISAO",
+    "description": "Tic-tac incessante.",
+    "items": [
+      "Pocao de Cura Grande"
+    ],
+    "lever": "true"
+  },
+  {
+    "id": 0,
+    "name": "Camara de Congelamento",
+    "type": "DIVISAO",
+    "description": "Tudo preservado no gelo.",
+    "items": [
+      "Pocao de Pele de Pedra"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Sala das Bonecas",
+    "type": "DIVISAO",
+    "description": "Bonecas de porcelana olham para ti.",
+    "eventType": "Surpresa"
+  }
+]
